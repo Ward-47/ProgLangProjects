@@ -1,0 +1,12 @@
+/Users/wardleavines/Projects/Leavines_SRP/Leavines_SRP/bin/Debug/Leavines_SRP.exe
+/Users/wardleavines/Projects/Leavines_SRP/Leavines_SRP/bin/Debug/Leavines_SRP.pdb
+/Users/wardleavines/Projects/Leavines_SRP/Leavines_SRP/obj/x86/Debug/Leavines_SRP.csprojAssemblyReference.cache
+/Users/wardleavines/Projects/Leavines_SRP/Leavines_SRP/obj/x86/Debug/Leavines_SRP.csproj.CoreCompileInputs.cache
+/Users/wardleavines/Projects/Leavines_SRP/Leavines_SRP/obj/x86/Debug/Leavines_SRP.exe
+/Users/wardleavines/Projects/Leavines_SRP/Leavines_SRP/obj/x86/Debug/Leavines_SRP.pdb
+/Users/wardleavines/Desktop/Leavines_SRP/Leavines_SRP/bin/Debug/Leavines_SRP.exe
+/Users/wardleavines/Desktop/Leavines_SRP/Leavines_SRP/bin/Debug/Leavines_SRP.pdb
+/Users/wardleavines/Desktop/Leavines_SRP/Leavines_SRP/obj/x86/Debug/Leavines_SRP.csprojAssemblyReference.cache
+/Users/wardleavines/Desktop/Leavines_SRP/Leavines_SRP/obj/x86/Debug/Leavines_SRP.csproj.CoreCompileInputs.cache
+/Users/wardleavines/Desktop/Leavines_SRP/Leavines_SRP/obj/x86/Debug/Leavines_SRP.exe
+/Users/wardleavines/Desktop/Leavines_SRP/Leavines_SRP/obj/x86/Debug/Leavines_SRP.pdb

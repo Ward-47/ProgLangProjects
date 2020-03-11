@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A96939CA-9621-4248-B482-C5EAF8880A05}|Default">
+  <MonoDevelop.Ide.ItemProperties.Leavines__SRP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Leavines_SRP/Program.cs">
+    <Files>
+      <File FileName="Leavines_SRP/Program.cs" Line="4" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

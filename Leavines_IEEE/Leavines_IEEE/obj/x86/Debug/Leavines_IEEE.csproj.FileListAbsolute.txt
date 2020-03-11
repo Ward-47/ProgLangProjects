@@ -1,0 +1,12 @@
+/Users/wardleavines/Projects/Leavines_IEEE/Leavines_IEEE/bin/Debug/Leavines_IEEE.exe
+/Users/wardleavines/Projects/Leavines_IEEE/Leavines_IEEE/bin/Debug/Leavines_IEEE.pdb
+/Users/wardleavines/Projects/Leavines_IEEE/Leavines_IEEE/obj/x86/Debug/Leavines_IEEE.csprojAssemblyReference.cache
+/Users/wardleavines/Projects/Leavines_IEEE/Leavines_IEEE/obj/x86/Debug/Leavines_IEEE.csproj.CoreCompileInputs.cache
+/Users/wardleavines/Projects/Leavines_IEEE/Leavines_IEEE/obj/x86/Debug/Leavines_IEEE.exe
+/Users/wardleavines/Projects/Leavines_IEEE/Leavines_IEEE/obj/x86/Debug/Leavines_IEEE.pdb
+/Users/wardleavines/Desktop/Leavines_IEEE/Leavines_IEEE/bin/Debug/Leavines_IEEE.exe
+/Users/wardleavines/Desktop/Leavines_IEEE/Leavines_IEEE/bin/Debug/Leavines_IEEE.pdb
+/Users/wardleavines/Desktop/Leavines_IEEE/Leavines_IEEE/obj/x86/Debug/Leavines_IEEE.csprojAssemblyReference.cache
+/Users/wardleavines/Desktop/Leavines_IEEE/Leavines_IEEE/obj/x86/Debug/Leavines_IEEE.csproj.CoreCompileInputs.cache
+/Users/wardleavines/Desktop/Leavines_IEEE/Leavines_IEEE/obj/x86/Debug/Leavines_IEEE.exe
+/Users/wardleavines/Desktop/Leavines_IEEE/Leavines_IEEE/obj/x86/Debug/Leavines_IEEE.pdb
